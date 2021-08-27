@@ -3,5 +3,5 @@ This repository is meant to give me a public, easily accessable backup of what I
 **NOTE : html files should go inside /docs, as github pages is set up to view that folder**  
 
 ---
-Reminder : Git will only upload folders to github if there are files inside them. Remember to modify from the laptop, if possible
+Reminder : Git (and/or github) will only upload folders to github if there are files inside them. ~~Remember to modify from the laptop, if possible~~ Just remember to add dummy text files. They funny =)
 
